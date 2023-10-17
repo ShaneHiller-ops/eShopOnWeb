@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 3c7e96ca-0029-4aad-a638-d5c8e3112b19
-  WEBAPP-NAME: Shane
+  WEBAPP-NAME: ShaneHiller1967
 
 
 jobs:
